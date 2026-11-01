@@ -221,3 +221,9 @@ Ranked toward beta; detail in [docs/roadmap.md](docs/roadmap.md), gaps in [docs/
 | 2026-09-30 | major | Created |
 | 2026-10-14 | minor | 97 Canon CR2, Pentax and Ricoh models verified (334 models, 23%); headline numbers unchanged |
 | 2026-10-14 | minor | RAW: 82% of Adobe's models decode, 36% verified (integration batch 36's CC0 per-model checks) |
+
+## Development tooling updates
+
+| Date | Change |
+| --- | --- |
+| 2026-10-15 | Added a local Visual Studio 2026 x64 solution with Cargo-backed Debug/Release builds, PDB/native debugger settings and documented build options. Application parity/readiness estimates are unchanged. See [setup](docs/visual-studio.md). |
